@@ -1,0 +1,4 @@
+struct AttendanceRecord {
+    string indexNumber;
+    string status; // Present, Absent, Late
+};
